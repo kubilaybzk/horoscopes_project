@@ -27,7 +27,7 @@ class Listelerim extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Burçlar Listesi'),
+        title: Text('Burç Listesi'),
       ),
       body: Center(
           child: ListView.builder(
