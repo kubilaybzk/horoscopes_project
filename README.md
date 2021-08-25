@@ -1,16 +1,13 @@
 # horoscopes_project
 
-A new Flutter project.
+This is a very basic flutter horoscopes project.<br/>
+I developed this project while learning flutter.<br/>
+Turkish dataset is used in the project.<br/>
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
+![Alt Text](https://github.com/kubilaybzk/horoscopes_project/blob/main/Animation.gif)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The project was developed as a sample project in Emre Altunbilek's "Sıfırdan Flutter ile Android ve Ios Apps Development" course.<br/>
+Here you can check the original version of the project. <br/>
+https://github.com/emrealtunbilek/flutter_burc_rehberi
